@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Gửi crush của tớ",
-    introTitle: 'Crush yêu dấu',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    titleWeb: "Gửi Tình yêu của em ",
+    introTitle: 'Na yêu anh nhất trên đời',
+    introDesc: `Nhanh nhò, mình yêu nhau được 1 năm rùi đấy 
+    Từng giây phút bên nhau em thấy mình thật hạnh phúc
+    em mong chúng ta sẽ luôn như vậy
+    bên nhau, yêu nhau và thương nhau anh nhé`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Thoát web là chấp nhận yêu tớ rồi nhé!!!',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay, mình qua đón đi chơi nha.',
+    title: ' Anhh đồng ý hông🥰',
+    desc: 'Thoát web là đồng ý rồi nhé!!!',
+    btnYes: 'Tất nhiên rùi <33',
+    btnNo: 'Bị Na ép :3',
+    question: 'Anh yêu em nhiều hông <3',
+    btnReply: 'Gửi cho iem <3',
+    reply: 'Yêu Na số 2 không ai số 1 <33333333',
+    mess: 'Em biết mà 🥰. Yêu anh nhiều nhiều 😘😘',
+    messDesc: 'Tối nay, đưa em đi chơi nha.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://m.me' //link mess của các bạn. VD: /dinhkaito
+    messLink: 'https://www.facebook.com/profile.php?id=100041262250844&mibextid=LQQJ4d' //link mess của các bạn. VD: /dinhkaito
 }
